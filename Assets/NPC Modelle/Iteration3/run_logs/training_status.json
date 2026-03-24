@@ -1,0 +1,105 @@
+{
+    "Collector": {
+        "checkpoints": [
+            {
+                "steps": 1499960,
+                "file_path": "results\\Iteration3\\Collector\\Collector-1499960.onnx",
+                "reward": 26.217400236800312,
+                "creation_time": 1759748476.7635102,
+                "auxillary_file_paths": [
+                    "results\\Iteration3\\Collector\\Collector-1499960.pt"
+                ]
+            },
+            {
+                "steps": 1999984,
+                "file_path": "results\\Iteration3\\Collector\\Collector-1999984.onnx",
+                "reward": 29.70122337843188,
+                "creation_time": 1759749248.909525,
+                "auxillary_file_paths": [
+                    "results\\Iteration3\\Collector\\Collector-1999984.pt"
+                ]
+            },
+            {
+                "steps": 2499960,
+                "file_path": "results\\Iteration3\\Collector\\Collector-2499960.onnx",
+                "reward": 39.88533429366847,
+                "creation_time": 1759750020.9667146,
+                "auxillary_file_paths": [
+                    "results\\Iteration3\\Collector\\Collector-2499960.pt"
+                ]
+            },
+            {
+                "steps": 2999960,
+                "file_path": "results\\Iteration3\\Collector\\Collector-2999960.onnx",
+                "reward": 34.74890979557213,
+                "creation_time": 1759750790.7994857,
+                "auxillary_file_paths": [
+                    "results\\Iteration3\\Collector\\Collector-2999960.pt"
+                ]
+            },
+            {
+                "steps": 3000192,
+                "file_path": "results\\Iteration3\\Collector\\Collector-3000192.onnx",
+                "reward": 36.44633418422503,
+                "creation_time": 1759750791.1477962,
+                "auxillary_file_paths": [
+                    "results\\Iteration3\\Collector\\Collector-3000192.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3000192,
+            "file_path": "results\\Iteration3\\Collector.onnx",
+            "reward": 36.44633418422503,
+            "creation_time": 1759750791.1477962,
+            "auxillary_file_paths": [
+                "results\\Iteration3\\Collector\\Collector-3000192.pt"
+            ]
+        }
+    },
+    "Hunter": {
+        "checkpoints": [
+            {
+                "steps": 499960,
+                "file_path": "results\\Iteration3\\Hunter\\Hunter-499960.onnx",
+                "reward": 39.53642701251166,
+                "creation_time": 1759748476.7099292,
+                "auxillary_file_paths": [
+                    "results\\Iteration3\\Hunter\\Hunter-499960.pt"
+                ]
+            },
+            {
+                "steps": 999960,
+                "file_path": "results\\Iteration3\\Hunter\\Hunter-999960.onnx",
+                "reward": 48.897497683763504,
+                "creation_time": 1759750790.7472684,
+                "auxillary_file_paths": [
+                    "results\\Iteration3\\Hunter\\Hunter-999960.pt"
+                ]
+            },
+            {
+                "steps": 1000064,
+                "file_path": "results\\Iteration3\\Hunter\\Hunter-1000064.onnx",
+                "reward": 48.135997676849364,
+                "creation_time": 1759750791.1112037,
+                "auxillary_file_paths": [
+                    "results\\Iteration3\\Hunter\\Hunter-1000064.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000064,
+            "file_path": "results\\Iteration3\\Hunter.onnx",
+            "reward": 48.135997676849364,
+            "creation_time": 1759750791.1112037,
+            "auxillary_file_paths": [
+                "results\\Iteration3\\Hunter\\Hunter-1000064.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}
