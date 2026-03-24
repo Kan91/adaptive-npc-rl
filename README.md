@@ -21,5 +21,11 @@ The goal is to compare traditional scripted AI with learning-based agents.
 - Iteration2: improved reward system
 - Iteration3: optimized agent behavior
 
+### Gameplay
+![Gameplay](gameplay.png)
+
+### AI Behavior Visualization
+![AI](ai_behavior.png)
+
 ## Author
 Berkan Bulut
